@@ -34,7 +34,7 @@ Theme CSS
 
 
 -->
-<link rel="stylesheet" href="{{ asset('http://pfe2015-stages-laravel.herokuapp.com/bootstrap/css/bootstrap.css')}}">
+<link rel="stylesheet" href="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/bootstrap/css/bootstrap.css')}}">
 
 
 <!-- Optional theme -->
@@ -82,8 +82,8 @@ Theme CSS
 <body >
 		<!-- Scripts -->
 
-   	<script type="text/javascript" language="javascript" src="{{ asset('/media/js/jquery.js')}}"></script>
-    <script type="text/javascript" language="javascript" src="{{ asset('/media/js/jquery.dataTables.min.js')}}"></script>
+   	<script type="text/javascript" language="javascript" src="{{ asset('media/js/jquery.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('media/js/jquery.dataTables.min.js')}}"></script>
    
 
     <script type="text/javascript" language="javascript" src="{{ asset('/media/3/dataTables.bootstrap.min.js')}}"></script>
