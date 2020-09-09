@@ -40,7 +40,7 @@ Theme CSS
 <!-- Optional theme -->
 <!--<link rel="stylesheet" type="text/css" href="{{ asset('/bootstrap/css/bootstrap-theme.min.css')}}">-->
 <link rel="stylesheet" type="text/css" href="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/chosen/chosen.bootstrap.min.css')}}">
-<link rel="stylesheet" type="text/css" href="{{ asset('https://pfe2015-stages-laravel.herokuapp.com//chosen/navbar-custom.css')}}">
+<link rel="stylesheet" type="text/css" href="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/chosen/navbar-custom.css')}}">
 
 
 <link rel="stylesheet" type="text/css" href="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/date/css/bootstrap-datetimepicker.min.css')}}"> 
@@ -82,30 +82,29 @@ Theme CSS
 <body >
 		<!-- Scripts -->
 
-   	<script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/media/js/jquery.js')}}"></script>
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/media/js/jquery.dataTables.min.js')}}"></script>
+   	<script type="text/javascript" language="javascript" src="{{ asset('/media/js/jquery.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/media/js/jquery.dataTables.min.js')}}"></script>
    
 
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/media/3/dataTables.bootstrap.min.js')}}"></script>
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/media/js/dataTables.colReorder.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/media/3/dataTables.bootstrap.min.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/media/js/dataTables.colReorder.js')}}"></script>
 
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/bootstrap/js/bootstrap.min.js')}}"></script>
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/chosen/chosen.jquery.min.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/bootstrap/js/bootstrap.min.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/chosen/chosen.jquery.min.js')}}"></script>
     
 
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/chosen/bootstrap-filestyle.js ')}}"></script> 
+    <script type="text/javascript" language="javascript" src="{{ asset('/chosen/bootstrap-filestyle.js ')}}"></script> 
                                                           
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/
-      menu/jquery.smartmenus.js')}}"></script>
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/menu/jquery.smartmenus.bootstrap.min.js')}}"></script>
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/date/min/moment.min.js')}}"></script>
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/date/min/locales.min.js')}}"></script>
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/date/js/bootstrap-datetimepicker.min.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/menu/jquery.smartmenus.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/menu/jquery.smartmenus.bootstrap.min.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/date/min/moment.min.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/date/min/locales.min.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/date/js/bootstrap-datetimepicker.min.js')}}"></script>
 
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com//text/src/bootstrap3-wysihtml5.all.js')}}"></script>
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/text/src/bootstrap3-wysihtml5.js')}}"></script>
-    <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/text/src/locales/bootstrap-wysihtml5.fr-FR.js')}}"></script>
-     <script type="text/javascript" language="javascript" src="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/media/js/dataTables.colVis.min.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/text/src/bootstrap3-wysihtml5.all.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/text/src/bootstrap3-wysihtml5.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/text/src/locales/bootstrap-wysihtml5.fr-FR.js')}}"></script>
+     <script type="text/javascript" language="javascript" src="{{ asset('/media/js/dataTables.colVis.min.js')}}"></script>
  
 
  <!--navbar-inverse       navbar-default  -->
