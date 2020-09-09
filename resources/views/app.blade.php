@@ -34,7 +34,7 @@ Theme CSS
 
 
 -->
-<link rel="stylesheet" href="{{ asset('https://pfe2015-stages-laravel.herokuapp.com/bootstrap/css/bootstrap.css')}}">
+<link rel="stylesheet" href="{{ asset('http://pfe2015-stages-laravel.herokuapp.com/bootstrap/css/bootstrap.css')}}">
 
 
 <!-- Optional theme -->
