@@ -82,15 +82,15 @@ Theme CSS
 <body >
 		<!-- Scripts -->
 
-   	<script type="text/javascript" language="javascript" src="{{ asset('http://pfe2015-stages-laravel.herokuapp.com/media/js/jquery.js')}}"></script>
-    <script type="text/javascript" language="javascript" src="{{ asset('http://pfe2015-stages-laravel.herokuapp.com/media/js/jquery.dataTables.min.js')}}"></script>
+   	<script type="text/javascript" language="javascript" src="{{ asset('/media/js/jquery.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/media/js/jquery.dataTables.min.js')}}"></script>
    
 
-    <script type="text/javascript" language="javascript" src="{{ asset('http://pfe2015-stages-laravel.herokuapp.com/media/3/dataTables.bootstrap.min.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/media/3/dataTables.bootstrap.min.js')}}"></script>
     <script type="text/javascript" language="javascript" src="{{ asset('/media/js/dataTables.colReorder.js')}}"></script>
 
-    <script type="text/javascript" language="javascript" src="{{ asset('http://pfe2015-stages-laravel.herokuapp.com/bootstrap/js/bootstrap.min.js')}}"></script>
-    <script type="text/javascript" language="javascript" src="{{ asset('http://pfe2015-stages-laravel.herokuapp.com/chosen/chosen.jquery.min.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/bootstrap/js/bootstrap.min.js')}}"></script>
+    <script type="text/javascript" language="javascript" src="{{ asset('/chosen/chosen.jquery.min.js')}}"></script>
     
 
     <script type="text/javascript" language="javascript" src="{{ asset('/chosen/bootstrap-filestyle.js ')}}"></script> 
