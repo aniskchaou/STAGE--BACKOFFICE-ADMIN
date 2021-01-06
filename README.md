@@ -1,13 +1,19 @@
-## Screenshot
+# Stage+
 
 <p  align="center"><img  src="intro.png"  /></p>
 <br>
 
+Stage+ is a web application dedicated to university institutions, allowing better management of the proccess and evaluation of student internships.
 
-## Description
-
-The objective of my internship within the company Glinse (a web development company), was the design and production of a web application dedicated to university institutions, allowing the various stakeholders to have an end-of-studies internship (teachers, students, companies and the administrative service of the establishment) to better manage the progress and evaluation of student internships.
-
-## Technologies
-
-PHP, Laravel 4, Java, JSF, Bootstrap, MySQL
+## Informations:
+- Status: under development
+- Latest version 1.0
+- Sector: education
+- Created: September 2020
+- Last updated: October 2020
+  
+## Features:
+- Manage internships
+- Manage job offers
+- Manage students
+- Manage teachers
